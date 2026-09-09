@@ -1,0 +1,12 @@
+- Modelos de datos
+- Modelo Entidad-Relación
+- Sistema Gestor de Base de Datos (SGBD)
+- SQL: Creación, actualización, integridad de la base de datos
+- SQL: Consultas
+- Nociones de AR - Optimización
+- Definiciones relativas a dependencias funcionales
+- Algoritmos de descomposición
+- Formas normales
+- DW - BDOO - Bases de datos distribuidas
+- Información no estructurada
+- Nuevas tendencias
