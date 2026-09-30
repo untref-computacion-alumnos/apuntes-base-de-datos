@@ -21,7 +21,8 @@ project:
         - file: contenidos/apuntes/03-sql-creacion-actualizacion-integridad-de-la-base-de-datos.md
         - file: contenidos/apuntes/04-sql-consultas.md
         - file: contenidos/apuntes/05-nociones-de-algebra-relacional-optimizacion.md
-        - file: contenidos/apuntes/pepe.md
+        - file: contenidos/apuntes/06-dependencias-funcionales.md
+        - file: contenidos/apuntes/07-descomposicion-y-formas-normales.md
     - title: Materiales
       children:
         - title: Ejercicios
@@ -33,6 +34,8 @@ project:
             - file: contenidos/materiales/ejercicios/ejercicio-5.md
             - file: contenidos/materiales/ejercicios/ejercicio-6.md
             - file: contenidos/materiales/ejercicios/ejercicio-7.md
+            - file: contenidos/materiales/ejercicios/ejercicio-8.md
+            - file: contenidos/materiales/ejercicios/ejercicio-9.md
         - title: Trabajos Prácticos
           children:
             - file: contenidos/materiales/trabajos-practicos/trabajo-practico-sakila.md
