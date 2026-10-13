@@ -45,6 +45,10 @@ project:
             - file: contenidos/materiales/examenes/tema-2.md
             - file: contenidos/materiales/examenes/tema-3.md
             - file: contenidos/materiales/examenes/tema-4.md
+            - file: contenidos/materiales/examenes/parcial-normalizacion-tema-1.md
+            - file: contenidos/materiales/examenes/parcial-normalizacion-tema-2.md
+            - file: contenidos/materiales/examenes/parcial-normalizacion-tema-3.md
+            - file: contenidos/materiales/examenes/parcial-normalizacion-tema-4.md
 site:
   template: book-theme
   title: Apuntes de Base de Datos
